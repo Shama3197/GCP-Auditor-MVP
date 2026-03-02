@@ -85,7 +85,7 @@ export function Sidebar({ className }: SidebarProps) {
         </Card>
       </div>
 
-      {/* Clinician's Note Section */}
+      {/* Clinician&apos;s Note Section */}
       <div className="border-t p-4">
         <Card className="bg-muted/50">
           <CardContent className="p-4">
