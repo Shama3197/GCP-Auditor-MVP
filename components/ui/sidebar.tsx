@@ -85,13 +85,13 @@ export function Sidebar({ className }: SidebarProps) {
         </Card>
       </div>
 
-      {/* Clinician&apos;s Note Section */}
+      {/* Clinician's Note Section */}
       <div className="border-t p-4">
         <Card className="bg-muted/50">
           <CardContent className="p-4">
             <div className="mb-2 flex items-center gap-2">
               <Stethoscope className="h-4 w-4 text-primary" />
-              <h3 className="text-sm font-semibold">Clinician&apos;s Note</h3>
+              <h3 className="text-sm font-semibold">{"Clinician's Note"}</h3>
             </div>
             <p className="text-xs text-muted-foreground leading-relaxed">
               As an MDS Prosthodontics specialist, I designed this logic to specifically target common gaps in dental clinical trials, such as biomechanical stability reporting and longitudinal patient follow-up protocols.
